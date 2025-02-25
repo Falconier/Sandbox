@@ -1,0 +1,1 @@
+S:\SandBox\CsharpProjects\TestWinFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache

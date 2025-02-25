@@ -1,0 +1,8 @@
+DELAY 5000
+STRING copy c:/windows/system32/utilman.exebak c:/windows/system32/utilman.exe /y
+WAIT_FOR_BUTTON_PRESS
+ENTER
+DELAY 5000
+STRING shutdown /r
+WAIT_FOR_BUTTON_PRESS
+ENTER
